@@ -32,12 +32,7 @@ $data=mysqli_query($conn,"SELECT * FROM users");
         <?php
             
         }
-
-
-
-
 ?>
-
     </table>
     <a href="logout.php">LOG OUT</a>
 </body>
